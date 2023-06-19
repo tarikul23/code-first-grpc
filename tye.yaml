@@ -1,0 +1,14 @@
+# tye application configuration file
+# read all about it at https://github.com/dotnet/tye
+#
+# when you've given us a try, we'd love to know what you think:
+#    https://aka.ms/AA7q20u
+#
+name: gprc.communication.withoutproto
+services:
+- name: gprc-product
+  project: Gprc.Product/Gprc.Product.csproj
+- name: gprc-order
+  project: Gprc.Order/Gprc.Order.csproj
+- name: gprc-api
+  project: Gprc.API/Gprc.API.csproj

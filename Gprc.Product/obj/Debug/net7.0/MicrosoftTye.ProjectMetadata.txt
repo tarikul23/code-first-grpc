@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: D:\GRPC Service\Gprc.Communication.WithoutProto\Gprc.Product\bin\Debug\net7.0\Gprc.Product.exe
+RunArguments:
+TargetPath: D:\GRPC Service\Gprc.Communication.WithoutProto\Gprc.Product\bin\Debug\net7.0\Gprc.Product.dll
+PublishDir: bin\Debug\net7.0\publish\
+AssemblyName: Gprc.Product
+IntermediateOutputPath: obj\Debug\net7.0\
+TargetFramework: net7.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 7.0
+FrameworkReference: Microsoft.NETCore.App;Microsoft.AspNetCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb: true
+AzureFunctionsVersion:
